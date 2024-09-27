@@ -693,41 +693,40 @@ High-variance genes were selected to reduce the feature space and improve model 
 
 Figure 1 shows significant upregulation and downregulation in tumor tissue compared to normal tissue.
 
-![image](https://github.com/user-attachments/assets/5cef64eb-98d6-441e-ad17-b580f5ff7ffd)
-
-
-
-![https://lh7-rt.googleusercontent.com/docsz/AD\_4nXfUDYpBFwyzwhOLMtNxd6GLXnjj95KwuU9LhmQE5GuJroSlg0gcYqdAWElr3mz\_Zj3GVi78v6lAWftkbmvwBm7dkgYF6GZjjY74OFhagDUIRzEXpdNvbPoM1Z2t8zTTb97gWVv2IPkoJOAeIc6WyBP0b2AD?key=-3z\_GxLNgr\_txcwVEQxf8A](file:///C:/Users/sarbe/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
-
+![rplot01](https://github.com/user-attachments/assets/8205ed0d-5321-4d61-a927-11e062fec88c)
 _Figure 1: Heatmap of Differentially Expressed Genes_
+
 
 Figure 2 shows genes expressed in tumor tissue compared to normal tissue  
 
-![https://lh7-rt.googleusercontent.com/docsz/AD\_4nXfrO-yS1KnaQwCw5pIXUfaDiY3kMQ5e3uT3jaeVCoBI6q81XqYGoZERoj1cliB4yjyvJvg4jRymqwSjdgFhcT-AM1oE7yl-o8XuRvdMGg2\_3enUzK3lLIACojlybdPCZXLyGg8KxoYBCw8s76sTDPL\_NHG1?key=-3z\_GxLNgr\_txcwVEQxf8A](file:///C:/Users/sarbe/AppData/Local/Temp/msohtmlclip1/01/clip_image004.gif)
-
+![luadvolplot](https://github.com/user-attachments/assets/051e02c2-94d6-4548-a24b-e70add2a38f7)
 _Figure 2: Volcano plots of differentially expressed genes_
+
 
 Figure 3&4 are the results of the functional enrichment analysis, which revealed key important pathways that are implicated by the upregulated and downregulated genes, with the top four significant pathways highlighted.
 
-** ![https://lh7-rt.googleusercontent.com/docsz/AD\_4nXc453XLZfjfZDckuiopsmycuzvFoezKBY6LwiYknCIT4L3iGSW4y64DfsQn\_hIegynxS-uhvtQ05U3eYfR6TXVpMb3H\_eItjacFYmdKi69h4BVLUmosZe8iwDfaEJlwpWZTg-iaA7PU\_lORjuIF57sVOgOJ?key=-3z\_GxLNgr\_txcwVEQxf8A](file:///C:/Users/sarbe/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif)**
+![Upregulated](https://github.com/user-attachments/assets/9b78da9e-0676-4f0f-9fd9-00152790dd59)
 
 _Figure 3: Enrichment analysis of upregulated genes_
 
- 
 
-**_![https://lh7-rt.googleusercontent.com/docsz/AD\_4nXcgoOXS6hK51hjY\_XRzziAqMnsxkUMmFSBru-0U-6GBG7ogjC3kssub56XceesQe8UxbCdox5sGGm4\_mm3\_wjXnUPCN8BosZcvodP1Sfbbe4qO7v7r6C0XoSQpWZhmyykutHjUQdGQTdmgP0LqTM4XkgCci?key=-3z\_GxLNgr\_txcwVEQxf8A](file:///C:/Users/sarbe/AppData/Local/Temp/msohtmlclip1/01/clip_image008.gif)_**
+
+
+![downregulated](https://github.com/user-attachments/assets/452c63f4-002d-4fc6-ae8d-f3e10b4288f1)
 
 _Figure 4: Enrichment analysis of downregulated genes_
 
+
 Figure 5&6 shows the KEGG enrichment analysis results. The size of the dot correlatse to the degree of impact. The interaction and impact of some of the implicated pathways have been reported in several literatures (Zhang _et al_., 2023; Gao _et al_., 2024).
 
-![https://lh7-rt.googleusercontent.com/docsz/AD\_4nXfbY2UqWpJ4wUz6SC\_-83Y1-N0fTxzbS9LU3vOJKkeMCvWnkbrwokin2wr-uIdHk0KKUpKwMuiiMj25-EvZuYIkT59Z7T2KIkg\_w-uGE6IVcd6LL4P8NcHJvNegV6ek2TvGxhOCDHIogyccXMkUZj814elD?key=-3z\_GxLNgr\_txcwVEQxf8A](file:///C:/Users/sarbe/AppData/Local/Temp/msohtmlclip1/01/clip_image010.jpg)__
+![upkegg](https://github.com/user-attachments/assets/d16feac6-178f-4afc-9bea-f2ad4a0b7fac)
 
 _Figure 5: KEGG enrichment analysis of upregulated genes_
 
-_![https://lh7-rt.googleusercontent.com/docsz/AD\_4nXc3BvlWERzBfJDCHIHbumkiPVMQEYLxn5\_22Wv07u2q1Dh16JnaEx5hX4\_FyUvenU5DrbbhzWSR5ryMn38fR\_jo1XnQEYkTh2Zb3I-R2Ax2MjItqCfhtig2Fj7sRFT3ezbJ1aasxocCkBuHaumygfRhi0M?key=-3z\_GxLNgr\_txcwVEQxf8A](file:///C:/Users/sarbe/AppData/Local/Temp/msohtmlclip1/01/clip_image012.jpg)_
+![upkegg](https://github.com/user-attachments/assets/4e9067ec-ea5f-4de1-b6a6-d93156a3581c)
 
 _Figure 6: KEGG enrichment analysis of downregulated genes_
+
 
 **Conclusion**
 
