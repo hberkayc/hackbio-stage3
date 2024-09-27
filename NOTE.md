@@ -693,6 +693,10 @@ High-variance genes were selected to reduce the feature space and improve model 
 
 Figure 1 shows significant upregulation and downregulation in tumor tissue compared to normal tissue.
 
+![image](https://github.com/user-attachments/assets/5cef64eb-98d6-441e-ad17-b580f5ff7ffd)
+
+
+
 ![https://lh7-rt.googleusercontent.com/docsz/AD\_4nXfUDYpBFwyzwhOLMtNxd6GLXnjj95KwuU9LhmQE5GuJroSlg0gcYqdAWElr3mz\_Zj3GVi78v6lAWftkbmvwBm7dkgYF6GZjjY74OFhagDUIRzEXpdNvbPoM1Z2t8zTTb97gWVv2IPkoJOAeIc6WyBP0b2AD?key=-3z\_GxLNgr\_txcwVEQxf8A](file:///C:/Users/sarbe/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
 
 _Figure 1: Heatmap of Differentially Expressed Genes_
