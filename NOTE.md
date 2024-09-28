@@ -693,7 +693,7 @@ High-variance genes were selected to reduce the feature space and improve model 
 
 Figure 1 shows significant upregulation and downregulation in tumor tissue compared to normal tissue.
 
-![rplot01](https://github.com/user-attachments/assets/8205ed0d-5321-4d61-a927-11e062fec88c)
+![image](https://github.com/user-attachments/assets/0f7d5518-c2f0-41fa-8cae-d91512a78209)
 _Figure 1: Heatmap of Differentially Expressed Genes_
 
 
@@ -726,6 +726,33 @@ _Figure 5: KEGG enrichment analysis of upregulated genes_
 ![upkegg](https://github.com/user-attachments/assets/4e9067ec-ea5f-4de1-b6a6-d93156a3581c)
 
 _Figure 6: KEGG enrichment analysis of downregulated genes_
+
+
+![image](https://github.com/user-attachments/assets/8d43c491-a815-4091-b5cd-b59bef4bea79)
+
+_Figure 7: ROC Curve of knn ML model_
+
+
+![image](https://github.com/user-attachments/assets/d8ae978c-ba2e-46fa-bedf-7d9d4b16e1a1)
+
+_Figure 8: Confusion matrix of knn ML model_
+
+![image](https://github.com/user-attachments/assets/266d4e93-98fd-446b-baf0-754ad307edd5)
+
+_Figure 9: ROC Curve of Random forest ML model_
+
+![image](https://github.com/user-attachments/assets/996e7d64-0218-4c61-bb6f-f9a7bd020428)
+
+_Figure 10: Confusion matrix of Random forest ML model_
+
+![image](https://github.com/user-attachments/assets/964bd780-8850-4919-a361-82359e93c551)
+
+_Figure 11: model accuracy comparisons of knn and Rf models_
+
+
+
+
+
 
 
 **Conclusion**
